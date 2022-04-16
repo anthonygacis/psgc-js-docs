@@ -6,6 +6,6 @@ setup: |
 # Test1
 
 <div class="grid place-items-center h-screen content-center">
-    <Button>Tailwind Button in Markdown!</Button>
+    <Button>Test!</Button>
     <a href="../" class="p-4 underline">Go home...</a>
 </div>
